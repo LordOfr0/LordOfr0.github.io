@@ -1,0 +1,4 @@
+## CHALLENGE INFO
+> Many young people want to be invited to the Wizards Hacking School. Unfortunately, not all of them are capable of doing so. However, a small number of candidates try to hack their way into the school. Our registration department has been a target of many phishing campaigns by candidates and mercenaries. The latter has been running a black market of invitations, where each candidate can buy an invitation for a specific amount. They finally managed to get access to our internal network. Can you investigate what happened before they moved laterally to the rest of the network?
+
+---
